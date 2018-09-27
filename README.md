@@ -10,7 +10,8 @@ Maven
 
 JPA
 
+Eureka
 
-Framework
+Rabbitmq
 
 This project uses SpringFramework and JPA as backend framework.
